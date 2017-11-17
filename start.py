@@ -4,7 +4,7 @@ import ase
 from ase.units import *
 
 
-def get_start_widget():
+def get_start_widget(appbase, jupbase):
     
     def on_drop_changed(c):
         global factor
