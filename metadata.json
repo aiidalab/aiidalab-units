@@ -1,4 +1,5 @@
 {
     "description": "Simple conversion between common units",
-    "title": "Units Converter"
+    "title": "Units Converter",
+    "version": "0.1"
 }
